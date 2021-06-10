@@ -1,0 +1,43 @@
+body {
+  background-color: 	 #ffd9b3;
+  
+}
+
+ .greenContent { background-color: #d580ff;
+    border-color:  #ffffff;
+    border-style: solid;
+}
+
+.header {
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 20px;
+}
+
+
+img {
+    height: 200px;
+    border: 6px double;
+    border-color: #e6ccff;
+    margin: 5px;
+    padding: 2px;
+}
+
+h3 {
+    border: 5px inset;
+    border-color: #9999ff;
+    padding: 5px;
+}
+
+ hr.solid {
+     border-top: 30px solid;
+     border-color:  #e6e6ff;
+}
+
+p { 
+    border: 2px outset;
+    border-color:  #ffccf2;
+    margin: 4px;
+    padding: 2px;
+}
+
